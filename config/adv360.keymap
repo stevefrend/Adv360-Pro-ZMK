@@ -83,7 +83,7 @@
         &kp TAB      &kp Q     &kp W     &kp E      &kp R          &kp T                 &to 0    &trans         &kp Y      &kp U      &kp I   &kp O      &kp P     &kp BACKSLASH
      &kp ESCAPE      &kp A     &kp S     &kp D      &kp F          &kp G                 &to 4  &kp LCMD  &kp LEFT_ALT                        &trans  &kp RCTRL            &trans              &kp H   &kp J      &kp K       &kp L  &kp SEMICOLON  &kp SINGLE_QUOTE
  &kp LEFT_SHIFT      &kp Z     &kp X     &kp C      &kp V          &kp B                &trans    &trans     &kp LCTRL     &trans     &trans  &trans     &trans            &trans              &kp N   &kp M  &kp COMMA  &kp PERIOD      &kp SLASH   &kp RIGHT_SHIFT
-          &mo 2  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT  &kp BACKSPACE            &kp DELETE     &none        &trans  &kp ENTER  &kp SPACE  &kp UP   &kp DOWN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET   &mo 2
+          &mo 2  &kp GRAVE  &kp CAPS  &kp LEFT  &kp RIGHT  &kp BACKSPACE            &kp DELETE     &none        &trans  &kp ENTER  &kp SPACE  &kp UP   &kp DOWN  &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &tog 2
             >;
         };
 
